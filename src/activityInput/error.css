@@ -1,0 +1,6 @@
+.errorLabel {
+    display: inline-block;
+    margin-left: 10px;
+    color: #e94646;
+    min-width: 110px;
+}

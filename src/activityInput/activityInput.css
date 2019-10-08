@@ -1,0 +1,25 @@
+.innerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #dfdff7;
+  border-radius: 20px;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+}
+
+.formlabel {
+  display: inline-block;
+  margin-left: 10px;
+  min-width: 110px;
+}
+
+.inputField {
+  width: 200px;
+}
