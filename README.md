@@ -1,3 +1,16 @@
+# Skill Test
+
+## How to Use
+change the url in .env.development and .env.production based on the use case
+
+to run in dev :
+`npm i`
+`npm start`
+
+
+# Create React App Documentation
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
